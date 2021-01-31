@@ -31,7 +31,7 @@
  </div>
 
 <div align="center">
-<h3>Languages and Tools</h3>
+<h3>LANGUAGES AND TOOLS</h3>
 </div>
 
 <div align="center">
