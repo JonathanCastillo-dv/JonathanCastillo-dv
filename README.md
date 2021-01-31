@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<a href="#"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Jonathan WhatsApp"></a>&nbsp;
+<a href="https://wa.link/wwaviz" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Jonathan WhatsApp"></a>&nbsp;
 <a href="#"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Jonathan Instagram"></a>&nbsp;
 <a href="#"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jonathan GMAIL"></a>&nbsp;
 <a href="#"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan LinkedIn"/></a>&nbsp;
