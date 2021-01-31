@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
+<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif">
 
 <div align="center">
 <h3>CONTACT ME</h3>
