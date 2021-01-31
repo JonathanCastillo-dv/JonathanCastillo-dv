@@ -2,7 +2,7 @@
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif);
 
 <div align="center">
-<h3 align="center">CONTACT ME</h3>
+<h3>CONTACT ME</h3>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <div align=center>
-  <h3 align="center">ABOUT ME<hr/></h3>
+  <h3>ABOUT ME<hr/></h3>
   <p>
    Hello my name is Jonathan. Currently I am a Software Development student who enjoys constantly expanding his knowledge.
    I currently have knowledge in
@@ -21,12 +21,13 @@
   </p>
 </div>
 
-<h3 align="center">Languages and Tools<hr/></h3>
-
+<div align="center">
+<h3>Languages and Tools</h3>
+</div>
 
 <p>
   <a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
-    <img src="https://img.shields.io/badge/html5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   </a>
   &nbsp;
   <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
