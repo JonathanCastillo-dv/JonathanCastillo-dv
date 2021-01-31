@@ -14,7 +14,7 @@
 </div>
 
 <div align=center>
-     <h3>ABOUT ME<hr/></h3>
+     <h3>ABOUT ME</h3>
     <samp>
    Hello my name is Jonathan. Currently I am a Software Development student who enjoys constantly expanding his knowledge.
    I currently have knowledge in
