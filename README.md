@@ -25,7 +25,7 @@
    When I'm not programming you can find me on YouTube learning or reading books related to technology.
   </samp>
      <div>
-          <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/EgUx.gif" width="500" height=100">
+          <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/EgUx.gif" width="600" height=150">
      </div>
  </div>
 
