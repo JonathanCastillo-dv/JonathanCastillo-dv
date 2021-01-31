@@ -6,16 +6,12 @@
 </div>
 
 <div align="center">
-<a href="#"><img align="center" src="https://img.shields.io/badge/gmail-181717.svg?style=for-the-badge&logo=gmail" alt="Jonathan GMAIL">
-</a>&nbsp;
-<a href="#"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan LinkedIn">
-</a>&nbsp;
-<a href="#">
-  <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
-</a>&nbsp;
+<a href="#"><img align="center" src="https://img.shields.io/badge/gmail-181717.svg?style=for-the-badge&logo=gmail" alt="Jonathan GMAIL"></a>&nbsp;
+<a href="#"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan LinkedIn"/></a>&nbsp;
+<a href="#"><img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github"/></a>&nbsp;
 </div>
 
-<p align=center>
+<div align=center>
   <h3 align="center">ABOUT ME<hr/></h3>
   <p>
    Hello my name is Jonathan. Currently I am a Software Development student who enjoys constantly expanding his knowledge.
@@ -23,7 +19,7 @@
    HTML, CSS, JS, JAVA, MySQL.
    When I'm not programming you can find me on YouTube learning or reading books related to technology.
   </p>
-</p>
+</div>
 
 <h3 align="center">Languages and Tools<hr/></h3>
 
