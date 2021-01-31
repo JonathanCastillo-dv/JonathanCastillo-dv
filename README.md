@@ -54,4 +54,19 @@
  &nbsp;
   <img src='https://img.shields.io/badge/JAVA-F05032?logo=JAVA&style=for-the-badge&logoColor=white' />
   </div>
+  
+  ### ✔️ I'm currently learning
+- ReactJs
+- Node.js
+
+### 😍 What i like to do:
+- I like challenges, learning, helping, sharing and living !!!
+
+### 💡 Goals for 2021:
+- Grow as a person
+- Expand Knowledge
+- Learn new technologies
+
+### 🛠 Interested in:
+-  mobile, fronted, devOps, games, designer,Web development.
  
