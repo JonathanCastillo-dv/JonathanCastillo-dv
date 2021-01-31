@@ -1,5 +1,9 @@
 
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif);
+
+<p align="center">
+<h3 align="center">CONTACT ME</h3>
+</p>
 <p align="center">
 <a href="#"><img align="center" src="https://img.shields.io/badge/gmail-181717.svg?style=for-the-badge&logo=gmail" alt="Jonathan GMAIL">
 </a>&nbsp;
