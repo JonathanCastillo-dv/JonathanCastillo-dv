@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<a href="#"><img align="center" src="https://img.shields.io/badge/gmail-181717.svg?style=for-the-badge&logo=gmail" alt="Jonathan GMAIL"></a>&nbsp;
+<a href="#"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jonathan GMAIL"></a>&nbsp;
 <a href="#"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan LinkedIn"/></a>&nbsp;
 <a href="#"><img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github"/></a>&nbsp;
 </div>
@@ -45,6 +45,10 @@
   <a href='https://www.react.org/'>
 		<img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
 	</a>
+&nbsp;
+  <a href='https://git-scm.com/'>
+    <img src='https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white' />
+  </a>
 &nbsp;
   <a href='https://git-scm.com/'>
     <img src='https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white' />
