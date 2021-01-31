@@ -23,8 +23,9 @@
    I currently have knowledge in
    HTML, CSS, JS, JAVA, MySQL.
    When I'm not programming you can find me on YouTube learning or reading books related to technology.
-  </samp><br>
+  </samp>
      <div>
+          <br>
           <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/EgUx.gif" width="600" height=150">
      </div>
  </div>
