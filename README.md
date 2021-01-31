@@ -1,5 +1,5 @@
 
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif);
+<img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
 
 <div align="center">
 <h3>CONTACT ME</h3>
