@@ -1,8 +1,4 @@
 <div align="center">
-          <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/setup.jpeg" width="400" height=200">
-          <br>
-     </div>
-<div align="center">
 <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="100" height="100">
 &nbsp;
 <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="100" height=100">
