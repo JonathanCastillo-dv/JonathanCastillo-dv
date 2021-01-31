@@ -1,8 +1,8 @@
-
+<div align="center">
 <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="200" height="200">
 &nbsp;
 <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="200" height="200">
-
+</div>
 
 <div align="center">
 <h3>CONTACT ME</h3>
