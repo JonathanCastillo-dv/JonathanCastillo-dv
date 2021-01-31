@@ -45,5 +45,6 @@
 &nbsp;
  <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/>
  &nbsp;
+  <img src='https://img.shields.io/badge/JAVA-F05032?logo=JAVA&style=for-the-badge&logoColor=white' />
   </div>
  
