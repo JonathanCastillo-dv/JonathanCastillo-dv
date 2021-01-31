@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif witdh="100px">
+<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="100" height="100">
 
 <div align="center">
 <h3>CONTACT ME</h3>
