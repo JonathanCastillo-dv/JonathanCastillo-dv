@@ -53,3 +53,7 @@
   </a>
 &nbsp;
   <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
+&nbsp;
+  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
+&nbsp;
+ <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/>
