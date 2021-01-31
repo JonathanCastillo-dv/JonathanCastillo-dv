@@ -26,7 +26,7 @@
   </samp>
      <div>
           <br>
-          <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/EgUx.gif" width="600" height=150">
+          <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/EgUx.gif" width="600" height=200">
      </div>
  </div>
 
