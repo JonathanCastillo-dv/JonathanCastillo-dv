@@ -13,12 +13,12 @@
 
 <div align=center>
   <h3>ABOUT ME<hr/></h3>
-  <p>
+   <samp>
    Hello my name is Jonathan. Currently I am a Software Development student who enjoys constantly expanding his knowledge.
    I currently have knowledge in
    HTML, CSS, JS, JAVA, MySQL.
    When I'm not programming you can find me on YouTube learning or reading books related to technology.
-  </p>
+  </samp>
 </div>
 
 <div align="center">
