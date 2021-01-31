@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="200" height="200">
+<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="120" height="120">
 &nbsp;
-<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="200" height="200">
+<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="120" height=120">
 </div>
 
 <div align="center">
