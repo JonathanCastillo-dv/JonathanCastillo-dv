@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="100" height="100">
+<img src="https://3.bp.blogspot.com/-qR722CIyRwE/XRzBF5O1DqI/AAAAAABGy_A/lrROcUIJ8dsES0BD41Uw-3SsklP9SHcCwCLcBGAs/s1600/AW3925002_17.gif" width="200" height="200">
 &nbsp;
-<img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/a387f701309b32cdcad96a5245335cda.gif" width="100" height=100">
+<img src="https://3.bp.blogspot.com/-qR722CIyRwE/XRzBF5O1DqI/AAAAAABGy_A/lrROcUIJ8dsES0BD41Uw-3SsklP9SHcCwCLcBGAs/s1600/AW3925002_17.gif" width="200" height="200">
 </div>
 
 <div align="center">
@@ -18,14 +18,14 @@
 <div align=center>
      <h3>ABOUT ME</h3>
     <samp>
-   Hello my name is Jonathan. Currently I am a Software Development student who enjoys constantly expanding his knowledge.
+   Hello my name is Jonathan. I am currently a Software Development student who constantly enjoys expanding his knowledge.
    I currently have knowledge in
-   HTML, CSS, JS, JAVA, MySQL.
+   HTML, CSS, JS, JAVA, MySQL, NODEJS, ANGULAR, SERVERLESS, AWS and MONGODB
    When I'm not programming you can find me on YouTube learning or reading books related to technology.
   </samp>
      <div>
           <br>
-          <img src="https://github.com/Dev-Gix/Dev-Gix/blob/main/Imagenes/EgUx.gif" width="600" height=200">
+          <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="700" height=350">
      </div>
  </div>
 
@@ -42,7 +42,6 @@
    &nbsp;
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
     &nbsp;
-<img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react'/><br>
 <img src='https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white' />
 &nbsp;
   <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
@@ -52,20 +51,27 @@
  <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/>
  &nbsp;
   <img src='https://img.shields.io/badge/JAVA-F05032?logo=JAVA&style=for-the-badge&logoColor=white' />
+     &nbsp;
+  <img src='https://img.shields.io/badge/Angular-f03244?logo=Angular&style=for-the-badge&logoColor=white' />
+  <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&style=for-the-badge&logoColor=white' />
+  <img src='https://img.shields.io/badge/Serverless-FD5750?logo=Serverless&style=for-the-badge&logoColor=white' />
+  <img src='https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white' />
+  <img src='https://img.shields.io/badge/Jest-C21325?logo=Jest&style=for-the-badge&logoColor=white' />
+     
   </div>
   
   ### ✔️ I'm currently learning
-- ReactJs
-- Node.js
+- Angular
+- AWS
 
 ### 😍 What i like to do:
 - I like challenges, learning, helping, sharing and living !!!
 
-### 💡 Goals for 2021:
+### 💡 Goals for 2022:
 - Grow as a person
 - Expand Knowledge
 - Learn new technologies
 
 ### 🛠 Interested in:
--  mobile, fronted, devOps, games, designer,Web development.
+-  mobile, frontend, backend,games, designer,Web development.
  
