@@ -12,7 +12,7 @@
 <a href="https://wa.link/wwaviz"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Jonathan WhatsApp"></a>&nbsp;
 <a href="https://www.instagram.com/jhony.c_dv/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Jonathan Instagram"></a>&nbsp;
 <a href="https://www.linkedin.com/in/jonathan-castillo-5a6933205/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan LinkedIn"/></a>&nbsp;
-<a href="https://github.com/Dev-Gix"><img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github"/></a>&nbsp;
+<a href="https://github.com/JonathanCastillo-dv"><img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github"/></a>&nbsp;
 </div>
 
 <div align=center>
